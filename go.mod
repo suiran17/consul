@@ -1,4 +1,4 @@
-module consul
+module github.com/suiran17/consul
 
 go 1.19
 
